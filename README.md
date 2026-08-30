@@ -28,7 +28,14 @@ Repository-aware Python coding assistant built around an agent runtime.
 
 ### [Toxicity-Detection](https://github.com/AdityaCShekhar/Toxicity-Detection)
 
-An earlier AI project combining a Flask inference API, TensorFlow text classification, and a browser extension. It reflects hands-on experience integrating a model behind an API; it is secondary to my current backend focus.
+Production-oriented local text-moderation platform combining a Flask inference API with a Chrome Manifest V3 extension.
+
+- TensorFlow/Keras inference with a persisted vocabulary and configurable threshold
+- Single-text and batched classification endpoints with input limits and validation
+- Docker and Gunicorn deployment with health checks and OpenAPI documentation
+- Structured request logging, response timing, model evaluation tooling, unit tests, and CI coverage
+
+The extension scans page text, batches requests to the local API, and blurs content classified as toxic. This is an AI/API project that complements my backend focus.
 
 ## Technical Focus
 

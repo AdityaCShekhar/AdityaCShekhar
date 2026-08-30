@@ -1,6 +1,6 @@
 # Aditya C Shekhar
 
-## Backend Engineer | Java, Spring Boot & Distributed Systems
+## Backend Engineer | Java, Spring Boot, Python, FastAPI & Distributed Systems
 
 I build backend systems and APIs, with a focus on the parts that determine how they behave in practice: data modeling, persistence, caching, asynchronous work, service boundaries, and failure handling.
 
@@ -42,7 +42,7 @@ The extension scans page text, batches requests to the local API, and blurs cont
 | Area | Tools and concepts |
 | --- | --- |
 | Backend | Java, Spring Boot, Spring Security, JPA/Hibernate, Python, FastAPI, REST APIs |
-| Data | PostgreSQL, SQL, Redis, database design, indexing, caching |
+| Data | PostgreSQL, MongoDB, SQL, Redis, database design, indexing, caching |
 | Distributed systems | Kafka, event-driven architecture, asynchronous processing, service boundaries, system design |
 | AI applications | RAG, embeddings, semantic search, FAISS, Sentence Transformers, LLM APIs |
 | Delivery | Docker, Git, GitHub Actions, Linux |

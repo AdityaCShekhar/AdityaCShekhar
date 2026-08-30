@@ -1,6 +1,6 @@
 # Aditya C Shekhar
 
-## Backend Engineer | Java, Spring Boot, Python, FastAPI & Distributed Systems
+## Backend Engineer | Java & Spring Boot | Python & FastAPI | Distributed Systems
 
 I build backend systems and APIs, with a focus on the parts that determine how they behave in practice: data modeling, persistence, caching, asynchronous work, service boundaries, and failure handling.
 

@@ -47,10 +47,6 @@ An earlier AI project combining a Flask inference API, TensorFlow text classific
 - Exploring PostgreSQL internals, search indexing, and performance trade-offs
 - Building small AI-backed services with FastAPI, embeddings, vector search, and RAG patterns
 
-## Achievement
-
-2nd Prize — Finite Loop Club Hackathon
-
 ## Contact
 
 [GitHub](https://github.com/AdityaCShekhar)

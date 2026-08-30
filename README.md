@@ -38,7 +38,7 @@ An earlier AI project combining a Flask inference API, TensorFlow text classific
 | Data | PostgreSQL, SQL, Redis, database design, indexing, caching |
 | Distributed systems | Kafka, event-driven architecture, asynchronous processing, service boundaries, system design |
 | AI applications | RAG, embeddings, semantic search, FAISS, Sentence Transformers, LLM APIs |
-| Delivery | Docker, Maven, Git, GitHub Actions, Linux, NixOS |
+| Delivery | Docker, Git, GitHub Actions, Linux |
 
 ## Current Direction
 

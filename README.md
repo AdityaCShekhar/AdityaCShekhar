@@ -55,17 +55,9 @@ Java and Spring Boot document search system organized as a multi-module service 
 
 Repository-aware Python coding assistant with an agent runtime, OpenRouter model integration, tool calling, context injection, permission-aware file operations, Docker support, and tests around agent behavior.
 
-### [react-chat-app](https://github.com/AdityaCShekhar/react-chat-app)
-
-Full-stack chat application with an Express/MongoDB backend, JWT and cookie-based authentication flows, REST routes, and Socket.IO messaging. Kept as a secondary project because it demonstrates service/API and real-time communication work.
-
 ### [Toxicity-Detection](https://github.com/AdityaCShekhar/Toxicity-Detection)
 
 ML-backed text moderation prototype: a Flask API loads a TensorFlow model and exposes text detection endpoints, with a browser extension client for real-time feedback. This is an earlier AI project, not the center of my backend profile.
-
-### [voting_system](https://github.com/AdityaCShekhar/voting_system)
-
-JavaFX LAN voting application using a client/server model and Java socket communication. An older project that shows an early interest in networked applications.
 
 ## Engineering Notes
 
@@ -85,4 +77,3 @@ Microsoft Azure certification material and AI-related certification material. Th
 - LinkedIn: add profile URL
 - Portfolio: add URL
 - Email: add preferred public email
-

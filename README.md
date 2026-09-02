@@ -11,13 +11,6 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=AdityaCShekhar&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -147,6 +140,15 @@ I also use **Python and FastAPI** for backend tooling and AI applications.
 * 🐘 Exploring **PostgreSQL internals and indexing**
 * 🔎 Building search systems and experimenting with indexing strategies
 * 🤖 Building AI-backed services using **FastAPI, embeddings, vector search, and RAG**
+
+---
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=AdityaCShekhar&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
 

@@ -18,13 +18,6 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=AdityaCShekhar&label=Profile%20Views&color=58A6FF&style=flat"
-    alt="Profile Views"
-  />
-</p>
-
 ---
 
 ## 👨‍💻 About Me

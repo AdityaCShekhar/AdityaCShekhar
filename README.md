@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya C Shekhar</h1>
+<h1 align="center">Hi 👋, I'm Aditya</h1>
 
 <p align="center">
   <b>Backend Engineer · Java & Spring Boot · Python & FastAPI · Distributed Systems</b>

@@ -11,8 +11,6 @@
   />
 </p>
 
----
-
 ## 👨‍💻 About Me
 
 I build backend systems and APIs, with a focus on the parts that determine how they behave in practice:
@@ -141,7 +139,6 @@ I also use **Python and FastAPI** for backend tooling and AI applications.
 * 🔎 Building search systems and experimenting with indexing strategies
 * 🤖 Building AI-backed services using **FastAPI, embeddings, vector search, and RAG**
 
----
 
 <p align="center">
   <img

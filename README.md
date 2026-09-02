@@ -11,162 +11,94 @@
   />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-c-shekhar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AdityaCShekhar">
+    <img src="https://img.shields.io/github/followers/AdityaCShekhar?label=Followers&style=flat&color=58A6FF" />
+  </a>
+</p>
+
 ## 👨‍💻 About Me
 
 I build backend systems and APIs, with a focus on the parts that determine how they behave in practice:
 
-* 🗄️ Data modeling and persistence
-* ⚡ Caching and performance
-* 📨 Asynchronous processing
-* 🔗 Service boundaries and API design
-* 💥 Failure handling and system reliability
+- 🗄️ Data modeling and persistence
+- ⚡ Caching and performance
+- 📨 Asynchronous processing
+- 🔗 Service boundaries and API design
+- 💥 Failure handling and system reliability
 
-My primary stack is **Java and Spring Boot**.
+My primary stack is **Java and Spring Boot**. I also use **Python and FastAPI** for backend tooling and AI applications.
 
-I also use **Python and FastAPI** for backend tooling and AI applications.
-
-### Currently Exploring
-
-* Distributed Systems
-* Event-Driven Architecture
-* Kafka and asynchronous processing
-* PostgreSQL internals and performance
-* Retrieval-Augmented Generation (RAG)
-* Search indexing and vector search
+**Currently exploring:** Kafka & event-driven architecture · PostgreSQL internals · Retrieval-Augmented Generation (RAG) · vector/search indexing
 
 ---
 
-# 🚀 Selected Projects
+## 🚀 Selected Projects
 
-## 🔎 MinSearch
+### 🔎 [MinSearch](https://github.com/AdityaCShekhar/MinSearch)
+Java and Spring Boot document-search system organized as a multi-module repository.
 
-> Java and Spring Boot document-search system organized as a multi-module repository.
+- 🔐 Auth, document, and search service boundaries
+- 🐘 PostgreSQL persistence with Docker-based local infrastructure
+- ⚡ Redis caching · 📨 Kafka for asynchronous processing
+- 🔎 Custom indexing and search logic, with documented API contracts
+- 🧪 Testcontainers-based verification
 
-🔗 **Repository:**
-[github.com/AdityaCShekhar/MinSearch](https://github.com/AdityaCShekhar/MinSearch)
+<p><img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,kafka,docker" /></p>
 
-### Highlights
+### 🤖 [CodeSmith](https://github.com/AdityaCShekhar/CodeSmith)
+Repository-aware Python coding assistant built around an agent runtime.
 
-* 🔐 Auth, document, and search service boundaries
-* 🐘 PostgreSQL persistence with Docker-based local infrastructure
-* ⚡ Redis integration for caching
-* 📨 Kafka integration for asynchronous processing
-* 🔎 Custom indexing and search work
-* 📜 API contracts
-* 🧪 Testcontainers-oriented verification
+- 🧠 OpenRouter model integration with tool calling
+- 📂 Context injection for repository files
+- 🔐 Permission-aware file operations and command execution
+- 🐳 Docker support · ⌨️ CLI workflows
+- 🧪 Tests for agent behavior
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,kafka,docker" />
-</p>
-
----
-
-## 🤖 CodeSmith
-
-> Repository-aware Python coding assistant built around an agent runtime.
-
-🔗 **Repository:**
-[github.com/AdityaCShekhar/CodeSmith](https://github.com/AdityaCShekhar/CodeSmith)
-
-### Highlights
-
-* 🧠 OpenRouter model integration
-* 🔧 Tool calling
-* 📂 Context injection for repository files
-* 🔐 Permission-aware file operations
-* 💻 Command execution
-* 🐳 Docker support
-* ⌨️ CLI workflows
-* 🧪 Tests for agent behavior
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,docker,git,linux" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=python,docker,git,linux" /></p>
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## Backend
+**Backend**
+<p><img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,flask" /></p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,flask" />
-</p>
+**Databases & Caching**
+<p><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" /></p>
 
-## Databases & Caching
+**Distributed Systems & AI**
+<p><img src="https://skillicons.dev/icons?i=kafka,tensorflow" /></p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
-</p>
+`Event-Driven Architecture` · `RAG` · `Embeddings` · `Semantic Search` · `FAISS` · `Sentence Transformers` · `Vector Search`
 
-## Distributed Systems
-
-<p>
-  <img src="https://skillicons.dev/icons?i=kafka,docker" />
-</p>
-
-**Concepts**
-
-`Event-Driven Architecture` · `Asynchronous Processing` · `Caching` · `Service Boundaries` · `System Design`
+**Delivery & Tools**
+<p><img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux" /></p>
 
 ---
 
-## AI Applications
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
-
-**Exploring**
-
-`RAG` · `Embeddings` · `Semantic Search` · `FAISS` · `Sentence Transformers` · `LLM APIs` · `Vector Search`
-
----
-
-## Delivery & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux" />
-</p>
-
----
-
-# 🎯 What I'm Working On
-
-* 🚀 Designing backend services with **Spring Boot**
-* 📨 Learning distributed systems through **messaging, caching, consistency, and failure modes**
-* 🐘 Exploring **PostgreSQL internals and indexing**
-* 🔎 Building search systems and experimenting with indexing strategies
-* 🤖 Building AI-backed services using **FastAPI, embeddings, vector search, and RAG**
-
+## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=AdityaCShekhar&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AdityaCShekhar&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaCShekhar&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AdityaCShekhar&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-<p>
-
-<a href="https://github.com/AdityaCShekhar">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-</a>
-
-<a href="https://www.linkedin.com/in/aditya-c-shekhar">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-
+<p align="center">
+  <a href="https://github.com/AdityaCShekhar"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/aditya-c-shekhar"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 </p>
-
-* 💻 GitHub: [github.com/AdityaCShekhar](https://github.com/AdityaCShekhar)
-* 💼 LinkedIn: [linkedin.com/in/aditya-c-shekhar](https://www.linkedin.com/in/aditya-c-shekhar)
-
----
 
 <h3 align="center">
   ⚡ Building systems, understanding how they fail, and making them harder to break.

@@ -5,7 +5,24 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;Java+%26+Spring+Boot;Building+Distributed+Systems;Exploring+Event-Driven+Architecture;Backend+%2B+AI+Applications" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;Java+%26+Spring+Boot;Building+Distributed+Systems;Exploring+Event-Driven+Architecture;Backend+%2B+AI+Applications"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=AdityaCShekhar&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=AdityaCShekhar&label=Profile%20Views&color=58A6FF&style=flat"
+    alt="Profile Views"
+  />
 </p>
 
 ---
@@ -24,7 +41,7 @@ My primary stack is **Java and Spring Boot**.
 
 I also use **Python and FastAPI** for backend tooling and AI applications.
 
-Currently exploring:
+### Currently Exploring
 
 * Distributed Systems
 * Event-Driven Architecture
@@ -142,7 +159,7 @@ Currently exploring:
 
 # 📫 Connect With Me
 
-<p align="left">
+<p>
 
 <a href="https://github.com/AdityaCShekhar">
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
@@ -159,8 +176,6 @@ Currently exploring:
 
 ---
 
-<p align="center">
-
-### ⚡ Building systems, understanding how they fail, and making them harder to break.
-
-</p>
+<h3 align="center">
+  ⚡ Building systems, understanding how they fail, and making them harder to break.
+</h3>

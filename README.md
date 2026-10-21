@@ -80,14 +80,6 @@ Python and FastAPI incident investigation copilot for synthetic backend faults, 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AdityaCShekhar&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">

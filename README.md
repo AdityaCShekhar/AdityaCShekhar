@@ -39,26 +39,26 @@ My primary stack is **Java and Spring Boot**. I also use **Python and FastAPI** 
 ## 🚀 Selected Projects
 
 ### 🔎 [MinSearch](https://github.com/AdityaCShekhar/MinSearch)
-Java and Spring Boot document-search system organized as a multi-module repository.
+Java 17 and Spring Boot document search engine with separate authentication, document, and search services.
 
-- 🔐 Auth, document, and search service boundaries
-- 🐘 PostgreSQL persistence with Docker-based local infrastructure
-- ⚡ Redis caching · 📨 Kafka for asynchronous processing
-- 🔎 Custom indexing and search logic, with documented API contracts
-- 🧪 Testcontainers-based verification
+- 🔎 Positional inverted index with Boolean and phrase queries, TF-IDF ranking, fuzzy/prefix matching, and autocomplete
+- 📨 PostgreSQL transactional outbox and Kafka for versioned indexing, completion feedback, retries, and dead-letter replay
+- 🔐 Token-based owner isolation across document and search APIs
+- 💾 Persistent index recovery, durable deletion tombstones, and retryable file cleanup · ⚡ Caffeine caching with optional Redis
+- 🧪 Testcontainers integration tests, JMH profiling, and reproducible HTTP benchmarks with synthetic search fixtures up to 100,000 documents
 
 <p><img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,kafka,docker" /></p>
 
-### 🤖 [CodeSmith](https://github.com/AdityaCShekhar/CodeSmith)
-Repository-aware Python coding assistant built around an agent runtime.
+### 🤖 [IncidentIQ](https://github.com/AdityaCShekhar/IncidentIQ)
+Python and FastAPI incident investigation copilot for synthetic backend faults, built around telemetry evidence and bounded diagnostic tools.
 
-- 🧠 OpenRouter model integration with tool calling
-- 📂 Context injection for repository files
-- 🔐 Permission-aware file operations and command execution
-- 🐳 Docker support · ⌨️ CLI workflows
-- 🧪 Tests for agent behavior
+- 📊 Correlated traces, logs, metrics, and deployment events using OpenTelemetry, Prometheus, and Jaeger
+- 🐘 Persistent incidents, evidence, investigations, and read-only tool audits in PostgreSQL
+- 🔎 Hybrid runbook retrieval using PostgreSQL full-text search, pgvector, and local embeddings
+- 💥 Four repeatable fault scenarios: slow dependency, deployment regression, pool exhaustion, and retry storm
+- 🧪 Evaluation harness with 24 synthetic cases and rules, LLM summary, RAG, and bounded agent strategies; development comparisons found no improvement over rules from tested models
 
-<p><img src="https://skillicons.dev/icons?i=python,docker,git,linux" /></p>
+<p><img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,prometheus" /></p>
 
 ---
 
